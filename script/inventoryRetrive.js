@@ -180,8 +180,9 @@ var result = getInventory(
             4, // Legendary Basic
             2, // Mythic Basic
             0, // Ultra Basic
-            0 // Super Basic
+            10 // Super Basic
         ],
         Module.HEAPU32
     ))
+
 // Input your basic petal amounts by rarity from Common to Super
