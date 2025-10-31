@@ -35,6 +35,7 @@ giveDesirePetal(
         ],
         Module.HEAPU32
     ),
-    ["Super Basic", "Super Leaf"], // Rarity & Short name (except Beetle Egg, Ant Egg and Blood Stinger)
-    10 // Number of petal
+    ["Ultra Bone", "Ultra Yucca","Ultra Glass","Ultra Corn","Ultra Light","Ultra Clover","Ultra Leaf"], // Rarity & Short name (except Beetle Egg, Ant Egg and Blood Stinger)
+    250 // Number of petal
 )
+
